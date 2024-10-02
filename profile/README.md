@@ -22,17 +22,17 @@ As players advance, they **accumulate points** 🎯, making the game more challe
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/your-contributor-1">
+      <a href="https://github.com/alvarobernal2412">
         <img src="https://avatars.githubusercontent.com/u/80347035?v=4" width="100px;" alt="Contributor 1"/>
         <br />
-        <sub><b>🎨 Contributor 1</b></sub>
+        <sub><b>🎨 alvarobernal2412</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/your-contributor-2">
+      <a href="https://github.com/JaviGarc1a">
         <img src="https://avatars.githubusercontent.com/u/72880234?v=4" width="100px;" alt="Contributor 2"/>
         <br />
-        <sub><b>💻 Contributor 2</b></sub>
+        <sub><b>💻 JaviGarc1a</b></sub>
       </a>
     </td>
   </tr>
