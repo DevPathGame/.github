@@ -35,5 +35,12 @@ As players advance, they **accumulate points** 🎯, making the game more challe
         <sub><b>💻 JaviGarc1a</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/AntonioRodriguezRuiz">
+        <img src="https://avatars.githubusercontent.com/u/73228905?v=4" width="100px;" alt="Contributor 3"/>
+        <br />
+        <sub><b>🐧 AntonioRodriguezRuiz</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
